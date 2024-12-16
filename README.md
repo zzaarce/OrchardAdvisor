@@ -50,14 +50,13 @@ python src/build_index.py
 
 
 ## 使用说明
-
-###本地测试问答
+### 1.本地测试问答
 运行 main.py 以测试问答功能：
 ```bash
 python src/main.py
 ```
 程序将调用大模型并检索结果回答示例查询，并在控制台输出结果。
-### 通过HTTP接口访问
+### 2.通过HTTP接口访问
 启动服务端接口：
 ```bash
 python src/server.py
