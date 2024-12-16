@@ -1,4 +1,4 @@
-# OrchardAdvisor：苹果产品智能问答系统
+# OrchardAdvisor
 ### 作者
 韩文强/中国传媒大学/hanwenqiang_qd@126.com
 ## 项目特性
