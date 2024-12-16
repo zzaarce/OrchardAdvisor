@@ -63,6 +63,12 @@ python src/main.py
 python src/server.py
 ```
 服务默认在 http://localhost:5000 运行。您可以通过以下方式访问 POST /api/answer 接口：
+```bash
+curl -X POST http://localhost:5000/api/answer \
+     -H "Content-Type: application/json" \
+     -d '{"query": "最新的iPhone有哪些特性？"}'
+```
+
 
 
 
