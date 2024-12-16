@@ -1,0 +1,5 @@
+faiss-cpu==1.7.3
+sentence-transformers==2.2.2
+requests==2.31.0
+pandas==2.0.3
+flask==2.2.5
