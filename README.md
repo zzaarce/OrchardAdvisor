@@ -68,7 +68,7 @@ curl -X POST http://localhost:5000/api/answer \
      -H "Content-Type: application/json" \
      -d '{"query": "最新的iPhone有哪些特性？"}'
 ```
-#### 示例响应
+### 示例响应
 ```bash
 {
   "question": "最新的iPhone有哪些特性？",
